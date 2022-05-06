@@ -1,0 +1,75 @@
+﻿  Attendence.cpp
+  BEECLASS1.cpp
+  CourseRecords.cpp
+  CourseSubjects.cpp
+C:\Users\ahmed\source\repos\GUI\GUI\Attendence.h(4,1): error C2870: 'GUI': a namespace definition must appear either at file scope or immediately within another namespace definition
+C:\Users\ahmed\source\repos\GUI\GUI\Attendence.h(16,1): error C3156: 'GUI::GUI::Attendence': you cannot have a local definition of a managed type
+C:\Users\ahmed\source\repos\GUI\GUI\Attendence.h(237,1): error C7653: 'GUI::GUI::Attendence': failed to select a destructor for the class
+C:\Users\ahmed\source\repos\GUI\GUI\Subjects.h(17,1): error C3156: 'GUI::GUI::Subjects': you cannot have a local definition of a managed type
+C:\Users\ahmed\source\repos\GUI\GUI\Subjects.h(234,1): error C7653: 'GUI::GUI::Subjects': failed to select a destructor for the class
+C:\Users\ahmed\source\repos\GUI\GUI\Feedback.h(15,1): error C3156: 'GUI::GUI::Feedback': you cannot have a local definition of a managed type
+C:\Users\ahmed\source\repos\GUI\GUI\Feedback.h(213,1): error C7653: 'GUI::GUI::Feedback': failed to select a destructor for the class
+C:\Users\ahmed\source\repos\GUI\GUI\FeedbackSubjects.h(16,1): error C3156: 'GUI::GUI::FeedbackSubjects': you cannot have a local definition of a managed type
+C:\Users\ahmed\source\repos\GUI\GUI\FeedbackSubjects.h(229,1): error C7653: 'GUI::GUI::FeedbackSubjects': failed to select a destructor for the class
+C:\Users\ahmed\source\repos\GUI\GUI\list1.h(15,1): error C3156: 'GUI::GUI::list1': you cannot have a local definition of a managed type
+C:\Users\ahmed\source\repos\GUI\GUI\list1.h(173,1): error C7653: 'GUI::GUI::list1': failed to select a destructor for the class
+C:\Users\ahmed\source\repos\GUI\GUI\ok.h(16,1): error C3156: 'GUI::GUI::ok': you cannot have a local definition of a managed type
+C:\Users\ahmed\source\repos\GUI\GUI\ok.h(189,1): error C7653: 'GUI::GUI::ok': failed to select a destructor for the class
+C:\Users\ahmed\source\repos\GUI\GUI\BEECLASS1.h(17,1): error C3156: 'GUI::GUI::BEECLASS': you cannot have a local definition of a managed type
+C:\Users\ahmed\source\repos\GUI\GUI\BEECLASS1.h(188,1): error C7653: 'GUI::GUI::BEECLASS': failed to select a destructor for the class
+C:\Users\ahmed\source\repos\GUI\GUI\SECLASS.h(16,1): error C3156: 'GUI::GUI::SECLASS': you cannot have a local definition of a managed type
+C:\Users\ahmed\source\repos\GUI\GUI\SECLASS.h(187,1): error C7653: 'GUI::GUI::SECLASS': failed to select a destructor for the class
+C:\Users\ahmed\source\repos\GUI\GUI\Departments.h(18,1): error C3156: 'GUI::GUI::Departments': you cannot have a local definition of a managed type
+C:\Users\ahmed\source\repos\GUI\GUI\Departments.h(168,1): error C7653: 'GUI::GUI::Departments': failed to select a destructor for the class
+C:\Users\ahmed\source\repos\GUI\GUI\StudentRecord.h(16,1): error C3156: 'GUI::GUI::StudentRecord': you cannot have a local definition of a managed type
+C:\Users\ahmed\source\repos\GUI\GUI\StudentRecord.h(464,1): error C7653: 'GUI::GUI::StudentRecord': failed to select a destructor for the class
+C:\Users\ahmed\source\repos\GUI\GUI\StudentSubject.h(18,1): error C3156: 'GUI::GUI::StudentSubject': you cannot have a local definition of a managed type
+C:\Users\ahmed\source\repos\GUI\GUI\StudentSubject.h(234,1): error C7653: 'GUI::GUI::StudentSubject': failed to select a destructor for the class
+C:\Users\ahmed\source\repos\GUI\GUI\Homepage.h(19,1): error C3156: 'GUI::GUI::Homepage': you cannot have a local definition of a managed type
+C:\Users\ahmed\source\repos\GUI\GUI\Homepage.h(196,1): error C7653: 'GUI::GUI::Homepage': failed to select a destructor for the class
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(233,2): error C2065: 'Homepage': undeclared identifier
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(233,12): error C2065: 'f5': undeclared identifier
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(233,23): error C2061: syntax error: identifier 'Homepage'
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(234,2): error C2065: 'f5': undeclared identifier
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(236,1): fatal error C1506: unrecoverable block scoping error
+  Departments.cpp
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(233,2): error C2065: 'Homepage': undeclared identifier
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(233,12): error C2065: 'f5': undeclared identifier
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(233,23): error C2061: syntax error: identifier 'Homepage'
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(234,2): error C2065: 'f5': undeclared identifier
+  Feedback.cpp
+  FeedbackSubjects.cpp
+  Homepage.cpp
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(233,2): error C2065: 'Homepage': undeclared identifier
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(233,12): error C2065: 'f5': undeclared identifier
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(233,23): error C2061: syntax error: identifier 'Homepage'
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(234,2): error C2065: 'f5': undeclared identifier
+  list1.cpp
+  Login.cpp
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(233,2): error C2065: 'Homepage': undeclared identifier
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(233,12): error C2065: 'f5': undeclared identifier
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(233,23): error C2061: syntax error: identifier 'Homepage'
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(234,2): error C2065: 'f5': undeclared identifier
+  ok.cpp
+  SECLASS.cpp
+  SignUp.cpp
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(233,2): error C2065: 'Homepage': undeclared identifier
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(233,12): error C2065: 'f5': undeclared identifier
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(233,23): error C2061: syntax error: identifier 'Homepage'
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(234,2): error C2065: 'f5': undeclared identifier
+  StudentRecord.cpp
+  StudentSubject.cpp
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(233,2): error C2065: 'Homepage': undeclared identifier
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(233,12): error C2065: 'f5': undeclared identifier
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(233,23): error C2061: syntax error: identifier 'Homepage'
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(234,2): error C2065: 'f5': undeclared identifier
+C:\Users\ahmed\source\repos\GUI\GUI\Homepage.h(183,2): error C2065: 'StudentSubject': undeclared identifier
+C:\Users\ahmed\source\repos\GUI\GUI\Homepage.h(183,18): error C2065: 'f3': undeclared identifier
+C:\Users\ahmed\source\repos\GUI\GUI\Homepage.h(183,29): error C2061: syntax error: identifier 'StudentSubject'
+C:\Users\ahmed\source\repos\GUI\GUI\Homepage.h(184,2): error C2065: 'f3': undeclared identifier
+  Subjects.cpp
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(233,2): error C2065: 'Homepage': undeclared identifier
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(233,12): error C2065: 'f5': undeclared identifier
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(233,23): error C2061: syntax error: identifier 'Homepage'
+C:\Users\ahmed\source\repos\GUI\GUI\CourseSubjects.h(234,2): error C2065: 'f5': undeclared identifier
+  Generating Code...

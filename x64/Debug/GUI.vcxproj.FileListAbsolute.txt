@@ -1,0 +1,5 @@
+C:\Users\ahmed\source\repos\GUI\GUI\x64\Debug\GUI.vcxproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\GUI\GUI\x64\Debug\GUI.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\source\repos\GUI\GUI\x64\Debug\GUI.Login.resources
+C:\Users\ahmed\source\repos\GUI\GUI\x64\Debug\GUI.vcxproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\GUI\GUI\x64\Debug\GUI.SignUp.resources
